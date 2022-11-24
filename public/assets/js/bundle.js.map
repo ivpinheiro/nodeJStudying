@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"AAAAA,QACAA","sources":["webpack://webpackbase/./src/index.js"],"sourcesContent":["alert();\r\nalert();"],"names":["alert"],"sourceRoot":""}
