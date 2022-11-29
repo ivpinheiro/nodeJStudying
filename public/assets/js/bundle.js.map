@@ -1,1 +1,1 @@
-{"version":3,"file":"bundle.js","mappings":"AAAAA,QACAA","sources":["webpack://webpackbase/./src/index.js"],"sourcesContent":["alert();\r\nalert();"],"names":["alert"],"sourceRoot":""}
+{"version":3,"file":"bundle.js","mappings":"AAAAA,QAAQC,IAAI","sources":["webpack://wp/./src/index.js"],"sourcesContent":["console.log(\"Teste\");"],"names":["console","log"],"sourceRoot":""}

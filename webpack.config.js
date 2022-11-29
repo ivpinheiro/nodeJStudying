@@ -1,4 +1,5 @@
 const path = require('path'); // CommonJS
+const webpack = require('webpack');
 
 module.exports = {
   mode: 'production',
@@ -19,5 +20,9 @@ module.exports = {
       }
     }]
   },
-  devtool: 'source-map'
+  devtool: 'source-map',
+  plugins: [
+    new webpack.ProgressPlugin()
+  ]
 };
+
