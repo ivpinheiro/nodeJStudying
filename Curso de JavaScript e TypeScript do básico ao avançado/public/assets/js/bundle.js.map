@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"MAGA,IAHAA,QAAQC,IAAI,WAIRD,QAAQC,IAAI,Q","sources":["webpack://wp/./src/index.js"],"sourcesContent":["console.log(\"tiste\")\r\nlet ivan = 1;\r\n\r\nwhile(ivan){\r\n    console.log(\"teste\");\r\n}"],"names":["console","log"],"sourceRoot":""}
